@@ -20,7 +20,7 @@ function App() {
 
       <div className='cards__section'>
 
-        <h3>Welcome to Millow</h3>
+        <h3>Welcome to Your Dream Destination</h3>
 
       </div>
 
